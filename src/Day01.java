@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Created by yongjin on 2017-08-10.
  */
-public class Solution1 {
+public class Day01 {
     public static void main(String[] args) {
         int i = 4;
         double d = 4.0;
